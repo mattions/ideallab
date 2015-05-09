@@ -1,25 +1,8 @@
-Django==1.4
 Flask==0.10.1
 Jinja2==2.7.3
 MarkupSafe==0.23
 Werkzeug==0.10.4
 argparse==1.2.1
-distribute==0.6.24
-dj-database-url==0.2.1
-django-appconf==0.5
-django-contact-form==0.3.1
-django-forms-bootstrap==2.0.3.post1
-django-timezones==0.2
--e git://github.com/pinax/django-user-accounts.git@3676d2c7ea0e9a5c3f8510ac8e6f8d58175e6b5f#egg=django_user_accounts-dev
 gunicorn==19.3.0
-honcho==0.1.0
-ipython==0.13
 itsdangerous==0.24
-metron==0.1
-pinax-theme-bootstrap==2.0.4
--e git://github.com/pinax/pinax-theme-bootstrap-account.git@70c0be0279d61bd2d0f949698f94b8f938918277#egg=pinax_theme_bootstrap_account-dev
-pinax-utils==1.0b1.dev3
-psycopg2==2.4.5
-pytz==2011n
-sc-theme-bootstrap==2.0.3
 wsgiref==0.1.2
